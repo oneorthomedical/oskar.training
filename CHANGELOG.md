@@ -4,7 +4,7 @@
 
 ## [2.0] - 2021-09
 
-### To add
+### To add - Sprint I
 
 - G-1-T3 Modification des payements : retirer les moyens de payement non automatisés. Par Anthony CASANAVE Terminé le 27/07/2021
 - G-1-T7 Modification des payements : automatiser la demande des 30% Par Anthony CASANAVE Terminé le 27/07/2021

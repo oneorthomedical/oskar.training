@@ -24,7 +24,6 @@ Oskar.training
 
 # Exécution des tests
 
-Après avoir cloné le dépôt et installé les dépendances avec `composer`, exécuter la commande suivante pour exécuter les tests :
 
 ```shell script
 php vendor/bin/simple-phpunit

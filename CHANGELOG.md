@@ -6,7 +6,6 @@
 
 ### To add
 
-- G-1-T1 Réunion de lancement avec Diane et Justine Par Houssam KARRACH, Anthony CASANAVE Terminé le 20/05/2021
 - G-1-T3 Modification des payements : retirer les moyens de payement non automatisés. Par Anthony CASANAVE Terminé le 27/07/2021
 - G-1-T7 Modification des payements : automatiser la demande des 30% Par Anthony CASANAVE Terminé le 27/07/2021
 - G-1-T26 Migration en local avec désactivation des éléments sensibles. Par Anthony CASANAVE Terminé le 27/07/2021
@@ -17,8 +16,7 @@
 - G-1-T30 Virement&User : Commande en Attente + Coordonnées bancaires pour effectuer le virement Par Non assigné Terminé le 27/07/2021
 - G-1-T33 PaiementDone&User : Commande en Cours + Facture Pro Forma Par Non assigné Terminé le 27/07/2021
 - G-1-T34 PaiementDone&Admin : Commande en Cours Par Non assigné Terminé le 27/07/2021
-- G-1-T36 Virement Par Non assigné Terminé le 27/07/2021
-- G-1-T2 Test Par Anthony CASANAVE Terminé le 28/05/2021
+
 
 ## [Released]
 
